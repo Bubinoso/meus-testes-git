@@ -1,5 +1,0 @@
-C:\Users\Acer\Desktop\Programação\CSharp\VSCode\Bháskara\obj\Debug\net6.0\Bháskara.csproj.AssemblyReference.cache
-C:\Users\Acer\Desktop\Programação\CSharp\VSCode\Bháskara\obj\Debug\net6.0\Bháskara.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Acer\Desktop\Programação\CSharp\VSCode\Bháskara\obj\Debug\net6.0\Bháskara.AssemblyInfoInputs.cache
-C:\Users\Acer\Desktop\Programação\CSharp\VSCode\Bháskara\obj\Debug\net6.0\Bháskara.AssemblyInfo.cs
-C:\Users\Acer\Desktop\Programação\CSharp\VSCode\Bháskara\obj\Debug\net6.0\Bháskara.csproj.CoreCompileInputs.cache
