@@ -1,0 +1,45 @@
+C:\Users\Acer\Documents\C# dump\Atividade 2\bin\Debug\net6.0\Atividade 2.exe
+C:\Users\Acer\Documents\C# dump\Atividade 2\bin\Debug\net6.0\Atividade 2.deps.json
+C:\Users\Acer\Documents\C# dump\Atividade 2\bin\Debug\net6.0\Atividade 2.runtimeconfig.json
+C:\Users\Acer\Documents\C# dump\Atividade 2\bin\Debug\net6.0\Atividade 2.dll
+C:\Users\Acer\Documents\C# dump\Atividade 2\bin\Debug\net6.0\Atividade 2.pdb
+C:\Users\Acer\Documents\C# dump\Atividade 2\obj\Debug\net6.0\Atividade 2.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\C# dump\Atividade 2\obj\Debug\net6.0\Atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\C# dump\Atividade 2\obj\Debug\net6.0\Atividade 2.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\C# dump\Atividade 2\obj\Debug\net6.0\Atividade 2.AssemblyInfo.cs
+C:\Users\Acer\Documents\C# dump\Atividade 2\obj\Debug\net6.0\Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\C# dump\Atividade 2\obj\Debug\net6.0\Atividade 2.dll
+C:\Users\Acer\Documents\C# dump\Atividade 2\obj\Debug\net6.0\refint\Atividade 2.dll
+C:\Users\Acer\Documents\C# dump\Atividade 2\obj\Debug\net6.0\Atividade 2.pdb
+C:\Users\Acer\Documents\C# dump\Atividade 2\obj\Debug\net6.0\Atividade 2.genruntimeconfig.cache
+C:\Users\Acer\Documents\C# dump\Atividade 2\obj\Debug\net6.0\ref\Atividade 2.dll
+C:\Users\Acer\Documents\C# dump\0311\bin\Debug\net6.0\Atividade 2.exe
+C:\Users\Acer\Documents\C# dump\0311\bin\Debug\net6.0\Atividade 2.deps.json
+C:\Users\Acer\Documents\C# dump\0311\bin\Debug\net6.0\Atividade 2.runtimeconfig.json
+C:\Users\Acer\Documents\C# dump\0311\bin\Debug\net6.0\Atividade 2.dll
+C:\Users\Acer\Documents\C# dump\0311\bin\Debug\net6.0\Atividade 2.pdb
+C:\Users\Acer\Documents\C# dump\0311\obj\Debug\net6.0\Atividade 2.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\C# dump\0311\obj\Debug\net6.0\Atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\C# dump\0311\obj\Debug\net6.0\Atividade 2.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\C# dump\0311\obj\Debug\net6.0\Atividade 2.AssemblyInfo.cs
+C:\Users\Acer\Documents\C# dump\0311\obj\Debug\net6.0\Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\C# dump\0311\obj\Debug\net6.0\Atividade 2.dll
+C:\Users\Acer\Documents\C# dump\0311\obj\Debug\net6.0\refint\Atividade 2.dll
+C:\Users\Acer\Documents\C# dump\0311\obj\Debug\net6.0\Atividade 2.pdb
+C:\Users\Acer\Documents\C# dump\0311\obj\Debug\net6.0\Atividade 2.genruntimeconfig.cache
+C:\Users\Acer\Documents\C# dump\0311\obj\Debug\net6.0\ref\Atividade 2.dll
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\bin\Debug\net6.0\Atividade 2.exe
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\bin\Debug\net6.0\Atividade 2.deps.json
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\bin\Debug\net6.0\Atividade 2.runtimeconfig.json
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\bin\Debug\net6.0\Atividade 2.dll
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\bin\Debug\net6.0\Atividade 2.pdb
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\obj\Debug\net6.0\Atividade 2.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\obj\Debug\net6.0\Atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\obj\Debug\net6.0\Atividade 2.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\obj\Debug\net6.0\Atividade 2.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\obj\Debug\net6.0\Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\obj\Debug\net6.0\Atividade 2.dll
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\obj\Debug\net6.0\refint\Atividade 2.dll
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\obj\Debug\net6.0\Atividade 2.pdb
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\obj\Debug\net6.0\Atividade 2.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Programação\CSharp\VSCode\0311 - média\obj\Debug\net6.0\ref\Atividade 2.dll
