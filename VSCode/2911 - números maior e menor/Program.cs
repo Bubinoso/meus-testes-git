@@ -1,23 +1,4 @@
-﻿/*double maior = 0;
-double menor = 0;
-bool chave = true;
-while (chave)
-{
-    Console.WriteLine("número: ");
-    double n = double.Parse(Console.ReadLine());
-
-    if(n > maior )
-    {
-        maior = n;
-    }
-    else if ()
-    {
-        menor = n;
-    }
-
-Console.WriteLine($"O maior número foi: {maior}; e o menor: {menor}");*/
-
-double maior = 0;
+﻿double maior = 0;
 double menor = 0;
 bool chave = true;
 
@@ -30,7 +11,7 @@ while (chave)
     {
         maior = numero;
     }
-    else
+    else if (numero < maior)
     {
         menor = numero;
     }

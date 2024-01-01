@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\obj\Debug\net7.0\0809 - cara ou coroa.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\obj\Debug\net7.0\0809 - cara ou coroa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\obj\Debug\net7.0\0809 - cara ou coroa.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\obj\Debug\net7.0\0809 - cara ou coroa.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\obj\Debug\net7.0\0809 - cara ou coroa.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\bin\Debug\net7.0\0809 - cara ou coroa.exe
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\bin\Debug\net7.0\0809 - cara ou coroa.deps.json
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\bin\Debug\net7.0\0809 - cara ou coroa.runtimeconfig.json
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\bin\Debug\net7.0\0809 - cara ou coroa.dll
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\bin\Debug\net7.0\0809 - cara ou coroa.pdb
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\obj\Debug\net7.0\0809 - cara ou coroa.dll
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\obj\Debug\net7.0\refint\0809 - cara ou coroa.dll
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\obj\Debug\net7.0\0809 - cara ou coroa.pdb
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\obj\Debug\net7.0\0809 - cara ou coroa.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Programação\CSharp\meus-testes-git\VSCode\0809 - cara ou coroa\obj\Debug\net7.0\ref\0809 - cara ou coroa.dll
